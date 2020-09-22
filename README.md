@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Frederic Leger (he|his), French DevOps and containers specialist. DevOps coach and teacher. Eternal learner, dad and traveler ...
+
+- 🔭 I’m currently working for webofmars.com
+- 🌱 I’m currently learning CNCF landscape
+- 👯 I’m looking to collaborate on CNCF projects / CaaS | KaaS implementations
+- ⚡ Fun fact: I *do* differenciate voices of famous people (actors, singers etc...) even when most people won't. So please don't change the voices of actors when doing dubbing or it will make me mad !!!
+
 <!--
 **fredleger/fredleger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
