@@ -2,9 +2,9 @@
 
 Frederic Leger (he|his), French DevOps and containers specialist. DevOps coach and teacher. Eternal learner, dad and traveler ...
 
-- 🔭 I’m currently working for (https://webofmars.com)[webofmars.com]
+- 🔭 I’m currently working for [webofmars.com](https://webofmars.com)
 - 🌱 I’m currently learning CNCF landscape
-- ⚡ Author of (https://kubernetes-snippets.com/)[https://kubernetes-snippets.com/] and (kubectl custom-cols plugin)[https://github.com/webofmars/kubectl-custom-cols] ...
+- ⚡ Author of [kubernetes-snippets.com](https://kubernetes-snippets.com/) and [kubectl custom-cols plugin](https://github.com/webofmars/kubectl-custom-cols) ...
 - 👯 I’m looking to collaborate on CNCF projects / CaaS | KaaS implementations
 - ⚡ Fun fact: I *do* differenciate voices of famous people (actors, singers etc...) even when most people won't. So please don't change the voices of actors when doing dubbing or it will make me mad !!!
 
